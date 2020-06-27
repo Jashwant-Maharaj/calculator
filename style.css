@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+input{
+    border-radius: 5px;
+    font-size:  20px;
+    height: 40px;
+    width: 367px;
+    padding: 0 15px;
+}
+input:focus{
+    background-color: rgb(248, 248, 248);
+}
+button{
+    width: 95px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 5px 1px;
+    padding: 10px;
+    background-color: #5F4B8BFF;
+    color: wheat;
+}
+button:hover{
+    background-color: rgb(148, 134, 177);
+}
+.firstRow{
+    margin-top: 10px;
+}
+.main{
+    margin: 0 auto;
+    padding: 10px;
+    width: 400px;
+    background-color: #E69A8DFF;
+    border-radius: 5px;
+}
